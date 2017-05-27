@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         3
         4
         5
+        home1
         // Do any additional setup after loading the view, typically from a nib.
     }
 
