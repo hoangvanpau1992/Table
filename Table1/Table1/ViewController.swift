@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         // tutorial 2
         // tutorial 3
         // tutorial 4
+        home2
     }
 
     override func didReceiveMemoryWarning() {
