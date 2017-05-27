@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         4
         5
         // Do any additional setup after loading the view, typically from a nib.
+        
+        // tutorial 1
     }
 
     override func didReceiveMemoryWarning() {
